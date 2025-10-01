@@ -50,5 +50,3 @@ Me considero un entusiata del aprendizaje, busco continuamente explorar nuevas t
 </div>
 
 ---
-
-</div>
